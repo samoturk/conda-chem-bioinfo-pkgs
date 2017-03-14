@@ -9,6 +9,7 @@ source:
 #      - fix_tests.patch
 requirements:
     build:
+        - gcc
         - glew
         - libpng
         - freeglut

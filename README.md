@@ -5,6 +5,8 @@ Conda recipes for chem/bioinformatics packages
 PyMOL is an OpenGL based molecular visualization system
 
 #### Install with conda:
+[![Anaconda-Server Badge](https://anaconda.org/samoturk/pymol/badges/version.svg)](https://anaconda.org/samoturk/pymol) [![Anaconda-Server Badge](https://anaconda.org/samoturk/pymol/badges/downloads.svg)](https://anaconda.org/samoturk/pymol)
+
 ```bash
 conda config --add channels conda-forge
 conda install -c conda-forge glew=2.0.0
